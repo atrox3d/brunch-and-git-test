@@ -1,5 +1,9 @@
 # brunch-test 
 
+### ISTRUZIONI INIZIALI github
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+
 
 ```
 echo # brunch-test >> README.md
