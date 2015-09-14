@@ -40,3 +40,9 @@ npm install --save-dev brunch	// locale (raccomandato)
 npm install --save-dev coffee-script-brunch
 npm install --save-dev stylus-brunch
 ```
+
+ed infine, sempre come da tutorial, il build:
+
+```
+brunch build
+```
