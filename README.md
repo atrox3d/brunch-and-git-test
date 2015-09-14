@@ -1,4 +1,4 @@
-# brunch-test 
+# brunch-test
 
 ### ISTRUZIONI INIZIALI github
 
@@ -19,3 +19,10 @@ OR
 git remote add origin https://github.com/IngloriousCoderz/brunch-test.git
 git push -u origin master
 ```
+
+IN LOCALE
+```
+cd <path>
+git clone https://github.com/IngloriousCoderz/brunch-test.git 
+```
+
