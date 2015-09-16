@@ -1,0 +1,12 @@
+"use strict";
+
+#$ = require 'jquery'
+
+App =
+  init: () ->
+    console.log 'App initialized.'
+    $('body').append 'app initialized'
+
+
+
+module.exports = App
